@@ -12,6 +12,7 @@ S-5). Bir memur, ATM makinasından para çekmekistemektedir. Makinede sadece 10,
 Büyük değerli banknotların sayısı maksimum olacak şekilde, çekilecek paranın kaç tane 100, 50, 20 ve 10 liralık banknottan oluşacağını ekranda yazan C programını yazınız.
 S-6). Fibonacci dizisini while döngüsü ile yazınız. 
 S-7). Klavyeden girilen bir sayının tersini yazan bir C programını whiledöngüsü ile yazınız. 123 --> 321
+
 S-8). Klavyeden girilen bir sayının palindrom olup olmadığını fordöngüsü ile bulan bir C programı yazınız.Örneğin 1221 sayısı, 1221 sayısı ile palindromdur.
 S-9). Dik kenar uzunlukları verilen bir üçgende hipotenüs uzunluğunu hesaplayan bir hipotenüs fonksiyonu tanımlayınız bu fonksiyonu kullanarak dik kenar uzunlukları (5.0 ve 12.0),(8.0,15.0)
 olarak verilen iki dik üçgende hipotenüs uzunluklarını hesaplayarak yazdıran program kodunu yazınız.
